@@ -1,5 +1,5 @@
 """
---- Day 6: Camel Cards ---
+--- Day 7: Camel Cards ---
 Camel Cards is sort of similar to poker. In Camel Cards, you get a list of hands, and your goal is to order them based
 on the strength of each hand. A hand consists of five cards labeled one of A, K, Q, J, T, 9, 8, 7, 6, 5, 4, 3, or 2.
 The relative strength of each card follows this order, where A is the highest and 2 is the lowest.
